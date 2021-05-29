@@ -16,6 +16,6 @@ Na segunda parte há um enfoque nos jogadores, tentando entender os principais j
 
 Esse projeto utilizou as bibliotecas [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Requests](https://docs.python-requests.org/en/master/), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) e [Seaborn](https://seaborn.pydata.org/)
 
-## Licensa
+## Licença
 
 MIT, veja [ela](https://github.com/fhfraga/Analise_NBA/blob/master/LICENSE)
