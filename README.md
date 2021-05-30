@@ -2,9 +2,7 @@
 
 Projeto de análise de dados da NBA dos últimos 70 anos, indo de 1950 até 2020.
 
-![Estatísticas ataque](Imagens/ataque_1.png)
-
-![Estatísticas ataque](Imagens/ataque_2.png)
+![Estatísticas ataque](Imagens/nba_2010.png)
 
 ## Organização do notebook
 
